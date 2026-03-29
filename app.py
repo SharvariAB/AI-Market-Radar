@@ -619,7 +619,7 @@ with left:
 
     st.markdown(f'<div class="card card-accent-green">{sig_html}</div>', unsafe_allow_html=True)
 
-    # ── INSTITUTIONAL ACTIVITY ───────────────────────────────────────────────
+    # ── INSTITUTIONAL ACTIVITY  ───────────────────────────────────────────────
     st.markdown("""<div class="sec-head fi3" style="margin-top:4px">
       <span style="font-size:.9rem">🏛️</span>
       <span class="sec-head-title">Institutional Activity</span>
